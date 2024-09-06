@@ -3,7 +3,7 @@
 
 # 🌟 Advanced Face Liveness Detection System 🌟
 
-![Face Recognition GIF](https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif)  
+![Face Recognition GIF](https://media.giphy.com/media/IsKFVXvVxyeN1aXfgj/giphy.gif?cid=790b7611lqs2vuq24v02mq7z2q2keawli3idg64fmq63wuy6&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
 *A modern solution for secure face verification using hybrid detection techniques.*
 
 ## Overview
@@ -15,8 +15,11 @@ This project develops an **Advanced Face Liveness Detection System** that ensure
 - 🖼️ **Passive Liveness Detection**: Utilizes advanced facial texture, depth, and motion analysis to detect any spoofing attempts using photos or videos.
 
 ## Technologies 🛠️
-- ![OpenCV Logo](https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png) **OpenCV**: For real-time facial recognition and image processing.
-- ![Python Logo](https://www.python.org/static/community_logos/python-logo.png) **Python**: Core programming language.
+- !**OpenCV**: For real-time facial recognition and image processing.
+- !**Python**: Core programming language.
+- !**TensorFlow**: For AI-generated prompts and facial analysis.
+- !**ONNX.js** : For Running on browser
+- !
 - 🧬 **Deep Learning**: For facial texture and depth detection.
 - 🎯 **AI Prompt Generation**: Uses AI to personalize action prompts for users.
 
@@ -28,7 +31,7 @@ This project develops an **Advanced Face Liveness Detection System** that ensure
 ## Installation ⚙️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pratikwayal01/Advanced-Face-Liveness-Detection.git
+   git clone https://github.com/pratikwayal01/Advanced-Face-Liveness-Detection-System.git
    ```
 2. Install dependencies:
    ```bash
