@@ -15,11 +15,10 @@ This project develops an **Advanced Face Liveness Detection System** that ensure
 - 🖼️ **Passive Liveness Detection**: Utilizes advanced facial texture, depth, and motion analysis to detect any spoofing attempts using photos or videos.
 
 ## Technologies 🛠️
-- !**OpenCV**: For real-time facial recognition and image processing.
-- !**Python**: Core programming language.
-- !**TensorFlow**: For AI-generated prompts and facial analysis.
-- !**ONNX.js** : For Running on browser
-- !
+- **OpenCV**: For real-time facial recognition and image processing.
+- **Python**: Core programming language.
+- **TensorFlow**: For AI-generated prompts and facial analysis.
+- **ONNX.js** : For Running on browser
 - 🧬 **Deep Learning**: For facial texture and depth detection.
 - 🎯 **AI Prompt Generation**: Uses AI to personalize action prompts for users.
 
