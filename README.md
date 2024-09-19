@@ -32,13 +32,24 @@ This project develops an **Advanced Face Liveness Detection System** that ensure
    ```bash
    git clone https://github.com/pratikwayal01/Advanced-Face-Liveness-Detection-System.git
    ```
-2. Install dependencies:
+   ```bash
+   cd Advanced-Face-Liveness-Detection-System
+   ```
+2. Create virtual environmental venv:
+   ```bash
+   python -m venv venv
+   ```
+  - Activate it
+   ```bash
+   .\venv\Scripts\activate
+   ```
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the application:
+4. Run the application:
    ```bash
-   python app.py
+   python main.py
    ```
 
 ## License 📝
