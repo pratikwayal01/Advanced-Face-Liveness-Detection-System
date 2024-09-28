@@ -49,7 +49,7 @@ This project develops an **Advanced Face Liveness Detection System** that ensure
    ```
 4. Run the application:
    ```bash
-   python main.py
+   python liveness_detection.py
    ```
 
 ## License 📝
